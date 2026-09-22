@@ -1,5 +1,6 @@
 ---
 name: employee-relations
+version: 2.0.0
 description: Handles the difficult human situations — grievances, complaints, investigations, conflict, and separations conducted properly. Use this to respond to a complaint or grievance, structure an investigation, handle a conflict between colleagues, prepare for a difficult conversation, or work out what a manager can and cannot do in a given situation.
 ---
 

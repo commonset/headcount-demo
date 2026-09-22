@@ -1,5 +1,6 @@
 ---
 name: quality-management
+version: 1.0.0
 description: Builds quality into operations — defining standards, catching defects at the right point, root cause analysis, and continuous improvement. Use this to reduce a defect or error rate, design quality controls into a process, run a root cause analysis, respond to a customer quality complaint, or set up quality metrics that drive behavior.
 ---
 

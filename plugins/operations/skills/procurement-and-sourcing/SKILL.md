@@ -1,5 +1,6 @@
 ---
 name: procurement-and-sourcing
+version: 1.1.0
 description: Buys well — specifying need, running competitive sourcing, negotiating, and category strategy before a contract exists. Use this to run an RFP or vendor selection, negotiate a purchase, consolidate spend across a category, decide between single and multiple suppliers, or bring uncontrolled spending under management.
 ---
 

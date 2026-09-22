@@ -1,5 +1,6 @@
 ---
 name: incident-management
+version: 1.0.1
 description: Runs an operational incident from detection to closed action — declaring it and naming a commander, separating the people restoring service from the people communicating, keeping a timeline as it happens, deciding when it is over, and running a review that produces a small number of changes someone actually completes. Use this to set up an incident process, run one, work out why the same failure keeps recurring, or fix a review practice that generates findings nobody closes.
 ---
 
