@@ -1,5 +1,6 @@
 ---
 name: schedule-development-and-analysis
+version: 2.1.3
 description: Builds and interrogates a project schedule — logic-driven sequencing, dependency types and lags, float and the critical path, resource loading and leveling, schedule risk analysis, and measuring progress against a baseline rather than against optimism. Use this to construct a schedule, audit one you have inherited, find out why a plan keeps slipping, work out what a date change actually costs, or judge whether a reported percentage complete means anything.
 ---
 

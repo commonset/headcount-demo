@@ -1,5 +1,6 @@
 ---
 name: design-system
+version: 1.3.2
 description: Builds and maintains the design system a product is assembled from — tokens for color, type, spacing and elevation, component contracts, and the rules that keep them coherent as the product grows. Use this when starting a new interface, when screens have drifted apart visually, when the same component exists three times in slightly different forms, or when a token or component needs adding without breaking what exists.
 ---
 

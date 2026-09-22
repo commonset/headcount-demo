@@ -1,5 +1,6 @@
 ---
 name: head-of-pmo
+version: 1.3.2
 description: The EPMO lead's remit — what the PMO governs, what it must never become, and how it earns standing rather than compliance. Use this to stand up or reform a PMO, decide what it should and should not control, judge whether it is adding value or overhead, or work out why teams route around it.
 ---
 
