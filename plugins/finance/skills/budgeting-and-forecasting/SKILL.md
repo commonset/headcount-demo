@@ -1,5 +1,6 @@
 ---
 name: budgeting-and-forecasting
+version: 1.0.0
 description: Runs the planning cycle — annual budget, rolling forecast, consolidation of business unit inputs, and the variance analysis that explains actuals against plan. Use this to build or challenge a budget, run a forecast cycle, consolidate departmental submissions, explain why results diverged from plan, or improve forecast accuracy.
 ---
 

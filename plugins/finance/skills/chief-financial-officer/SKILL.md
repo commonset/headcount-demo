@@ -1,5 +1,6 @@
 ---
 name: chief-financial-officer
+version: 1.2.0
 description: "Owns the financial position: planning, budgeting, forecasting, unit economics, cash, and the numbers the business is run and reported on. Use this to build or challenge a budget, model a decision's financial consequence, assess unit economics or runway, evaluate an investment or spend request, set financial controls, or when a plan's numbers do not reconcile. Also use to decide whether the business can afford something."
 ---
 

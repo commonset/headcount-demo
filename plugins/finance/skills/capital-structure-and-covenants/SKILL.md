@@ -1,5 +1,6 @@
 ---
 name: capital-structure-and-covenants
+version: 1.0.1
 description: Decides how the business is financed and what that financing then requires of it — debt versus equity, weighted average cost of capital as a hurdle rate, how much leverage cash flow can carry, and the financial, affirmative and negative covenants, definitions, test dates and cure rights that come attached. Use this to evaluate a financing option, set an investment hurdle, check whether a planned decision will trip a covenant, or work out what a lender can do when one breaks.
 ---
 

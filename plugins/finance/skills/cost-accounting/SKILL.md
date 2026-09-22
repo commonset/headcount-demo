@@ -1,5 +1,6 @@
 ---
 name: cost-accounting
+version: 1.0.0
 description: Establishes what something actually costs — fixed, variable and mixed cost behavior, absorption versus variable costing, job-order, process and activity-based methods, breakeven and operating leverage, and price/volume/mix decomposition. Use this to set a price floor, explain why revenue or margin moved, decide make versus buy, judge whether a product line earns its place, or work out how an allocation basis is distorting a reported margin.
 ---
 

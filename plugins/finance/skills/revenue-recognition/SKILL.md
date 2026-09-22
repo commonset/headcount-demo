@@ -1,5 +1,6 @@
 ---
 name: revenue-recognition
+version: 1.0.1
 description: Determines when and how revenue is recognized — performance obligations, contract terms that change the answer, and the deal structures that create accounting problems. Use this to work out how a contract should be recognized, review a non-standard deal before it is signed, understand deferred revenue, or spot terms that would delay or reverse recognition.
 ---
 

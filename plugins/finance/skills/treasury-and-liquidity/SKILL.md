@@ -1,5 +1,6 @@
 ---
 name: treasury-and-liquidity
+version: 1.1.0
 description: Manages cash and liquidity — cash forecasting, runway, working capital, banking structure, and currency and counterparty exposure. Use this to build a cash forecast, extend runway, improve working capital, decide where cash should sit, or assess exposure to a bank, currency, or customer concentration.
 ---
 

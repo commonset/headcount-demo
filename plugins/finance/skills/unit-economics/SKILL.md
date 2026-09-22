@@ -1,5 +1,6 @@
 ---
 name: unit-economics
+version: 1.0.0
 description: Establishes whether the business makes money on each customer or unit — contribution margin, acquisition cost, payback period, lifetime value, and the cohort behavior underneath. Use this to assess whether growth is profitable, evaluate a channel or segment, support a pricing decision, judge how fast the business can afford to grow, or diagnose why revenue growth is not producing profit.
 ---
 

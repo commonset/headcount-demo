@@ -1,5 +1,6 @@
 ---
 name: saas-idea-validator
+version: 2.2.1
 description: Evaluates a software or startup idea against problem, market, competition, monetization, defensibility, and execution, and returns a verdict rather than encouragement. Use this when an idea needs pressure-testing before anyone builds, when deciding whether something is worth pursuing, when assessing competition or willingness to pay, or when a validated idea needs a first-customers and MVP plan. Default to scrutiny; the useful answer is usually the unwelcome one.
 ---
 
