@@ -1,6 +1,6 @@
 ---
 name: data-migration
-version: 2.1.1
+version: 2.1.2
 description: Moves data from one system to another without losing it or corrupting
   it — profiling the source before mapping, deciding between big-bang and parallel-run
   cutover, reconciling counts and values rather than assuming, handling the records
