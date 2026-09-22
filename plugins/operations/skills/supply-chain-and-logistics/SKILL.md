@@ -1,5 +1,6 @@
 ---
 name: supply-chain-and-logistics
+version: 1.1.0
 description: Manages the flow of goods and inputs — sourcing, inventory, lead times, fulfillment, and supply risk. Use this to reduce stockouts or excess inventory, plan for a supplier failure, decide reorder points and safety stock, improve fulfillment reliability, or assess concentration risk in a supply base.
 ---
 

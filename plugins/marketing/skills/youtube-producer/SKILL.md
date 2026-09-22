@@ -1,5 +1,6 @@
 ---
 name: youtube-producer
+version: 1.2.0
 description: Plans, packages, and scripts long-form video for retention and channel growth — idea selection, titles and thumbnails, script structure, and diagnosing why a video or channel underperforms. Use this for video ideas, packaging, scripting, a retention teardown, or channel strategy — including when someone describes a topic and wants it turned into something publishable. For short-form and cross-platform video, use `video-content`.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: operating-cadence
+version: 1.3.2
 description: Designs the rhythm an organization runs on — which reviews happen weekly, monthly and quarterly, what each one decides, who owns the numbers presented, and how a signal at the front line reaches the people who can act on it. Use this to set up a management operating system, fix a meeting calendar that produces no decisions, work out where a recurring problem keeps failing to surface, or cut a review structure that has grown past what it informs.
 ---
 

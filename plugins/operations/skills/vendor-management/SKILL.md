@@ -1,5 +1,6 @@
 ---
 name: vendor-management
+version: 1.2.0
 description: Selects, contracts, and manages suppliers and vendors — requirements, evaluation, negotiation support, onboarding, performance management, and exit. Use this to choose a vendor, run a selection process, structure a service agreement's operational terms, manage an underperforming supplier, plan an exit or migration, or assess concentration and continuity risk.
 ---
 
