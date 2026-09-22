@@ -1,5 +1,6 @@
 ---
 name: chief-technology-officer
+version: 1.0.1
 description: Owns architecture, engineering delivery, infrastructure, data platform, and internal systems. Use this for build-versus-buy calls, technology selection, architectural direction, engineering capacity and delivery risk, technical debt tradeoffs, platform and tooling decisions, or when a technical choice has business consequences that need stating in business terms. Also use to judge whether a technical plan is sound before it is committed to.
 ---
 

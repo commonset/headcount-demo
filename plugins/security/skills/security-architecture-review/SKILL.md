@@ -1,5 +1,6 @@
 ---
 name: security-architecture-review
+version: 2.2.1
 description: Reviews a design or change for security before it ships — authentication and authorization, data handling, secrets, dependencies, and the secure-development practices around it. Use this to review an architecture or pull request for security, set secure coding standards, choose or tune SAST and DAST tooling, assess a third-party integration, or decide whether a design is safe to build.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: sales-enablement
+version: 1.2.0
 description: Builds what a sales team needs to sell — pitch decks, one-pagers, objection handling, competitive battlecards, demo scripts, and case studies. Use this to create or fix sales collateral, prepare for a competitive deal, build a demo flow, document objection responses, or diagnose why a pitch is not converting.
 ---
 

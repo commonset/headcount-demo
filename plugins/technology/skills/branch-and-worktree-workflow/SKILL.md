@@ -1,5 +1,6 @@
 ---
 name: branch-and-worktree-workflow
+version: 1.0.0
 description: Isolates feature work in its own branch or worktree and integrates it cleanly when done. Use this when starting work that should not disturb the current workspace, when several efforts must proceed in parallel on one repository, or when implementation is finished and the change needs merging, rebasing, or splitting for review.
 ---
 

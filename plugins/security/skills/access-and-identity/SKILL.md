@@ -1,5 +1,6 @@
 ---
 name: access-and-identity
+version: 2.1.0
 description: Designs and audits who can reach what — authentication, authorization models, privileged access, service credentials, and joiner-mover-leaver process. Use this to design a permissions model, run an access review, reduce standing privilege, handle offboarding, set up SSO or MFA, manage service and machine credentials, or diagnose why permissions have sprawled.
 ---
 

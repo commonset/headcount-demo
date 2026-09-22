@@ -1,5 +1,6 @@
 ---
 name: detection-and-monitoring
+version: 1.0.1
 description: Builds the capability to notice an attack in progress — deciding what to log and retain, centralizing it somewhere tamper-resistant, writing detections that fire on attacker behavior rather than on individual events, tuning out the noise that trains people to ignore alerts, and defining what happens when something fires. Use this to design or assess monitoring coverage, work out why an incident went unnoticed, cut alert volume without losing signal, or decide what a detection capability should cost.
 ---
 

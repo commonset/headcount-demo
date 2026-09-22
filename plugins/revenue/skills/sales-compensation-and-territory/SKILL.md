@@ -1,5 +1,6 @@
 ---
 name: sales-compensation-and-territory
+version: 1.2.0
 description: Designs quotas, territories and commission plans that produce the behavior the business needs — sizing territories against real potential, setting quotas people can hit often enough to believe in, choosing what to pay on, handling accelerators, draws, clawbacks and disputes, and changing a plan without destroying trust. Use this to build or fix a comp plan, allocate territories, work out why reps are chasing the wrong deals, or plan a mid-year change.
 ---
 
