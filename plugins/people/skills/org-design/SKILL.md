@@ -1,5 +1,6 @@
 ---
 name: org-design
+version: 2.1.3
 description: Designs how an organization is structured — reporting lines, team boundaries, spans and layers, role definition, and workforce planning against the strategy. Use this to structure a new team, restructure an existing one, resolve unclear ownership between teams, plan headcount, or diagnose why a team underperforms for structural rather than individual reasons.
 ---
 

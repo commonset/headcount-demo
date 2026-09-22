@@ -1,5 +1,6 @@
 ---
 name: hiring-and-interviewing
+version: 1.2.0
 description: Designs and runs hiring — role definition, sourcing, interview loop design, structured evaluation, and the decision itself. Use this to open a role, write a job description or scorecard, design an interview process, prepare interview questions, calibrate a hiring decision, or diagnose why a hiring process produces poor outcomes.
 ---
 

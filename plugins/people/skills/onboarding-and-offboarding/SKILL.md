@@ -1,5 +1,6 @@
 ---
 name: onboarding-and-offboarding
+version: 1.0.1
 description: Designs the joining and leaving experience — first-day readiness, ramp to productivity, knowledge capture, and clean exits. Use this to design or fix onboarding, shorten time to productivity, structure a leaver process, capture knowledge before someone leaves, or coordinate the access and asset steps around a joiner or leaver.
 ---
 

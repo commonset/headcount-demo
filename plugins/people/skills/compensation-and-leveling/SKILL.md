@@ -1,5 +1,6 @@
 ---
 name: compensation-and-leveling
+version: 1.0.1
 description: Builds and maintains the leveling framework and pay structure — level definitions, salary bands, benchmarking, pay equity, and how raises and promotions are decided. Use this to design or revise leveling, set or adjust salary bands, benchmark against market, handle a compensation request or counteroffer, run a review cycle, or diagnose pay compression and equity issues.
 ---
 
