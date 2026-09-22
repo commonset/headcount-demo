@@ -1,5 +1,6 @@
 ---
 name: capital-allocation
+version: 2.1.0
 description: Evaluates where to spend limited capital — investment appraisal, hurdle rates, payback, and comparing proposals that are not alike. Use this to evaluate an investment or major purchase, compare competing funding requests, set a hurdle rate, decide between building and buying, or review whether past investments delivered what was claimed.
 ---
 

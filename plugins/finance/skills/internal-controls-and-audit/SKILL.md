@@ -1,5 +1,6 @@
 ---
 name: internal-controls-and-audit
+version: 1.0.1
 description: Designs and tests controls over financial reporting — segregation of duties, approval limits, evidence, and preparing for audit. Use this to design controls for a process, prepare for an external audit, respond to an audit finding, set approval thresholds, or assess where a small team's segregation of duties is genuinely broken.
 ---
 

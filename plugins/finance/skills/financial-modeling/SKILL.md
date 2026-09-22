@@ -1,5 +1,6 @@
 ---
 name: financial-modeling
+version: 2.1.0
 description: Builds and stress-tests financial models for forecasting, scenario planning, and decision support — revenue build, cost structure, driver logic, and the sensitivities that show where a plan breaks. Use this to model a decision's financial consequence, build a forecast or long-range plan, evaluate an investment or hire, or pressure-test someone else's model before relying on it.
 ---
 
