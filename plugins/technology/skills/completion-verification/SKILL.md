@@ -1,5 +1,6 @@
 ---
 name: completion-verification
+version: 2.2.1
 description: Verifies that work is actually complete before it is claimed to be — running the checks, reading the output, and confirming the original request was satisfied rather than approximated. Use this before saying something is done, fixed, or passing; before committing or opening a pull request; and whenever a claim of success has not been backed by command output.
 ---
 

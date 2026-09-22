@@ -1,5 +1,6 @@
 ---
 name: observability-and-reliability
+version: 2.1.0
 description: Makes systems debuggable and reliably operable — instrumentation, alerting that is worth waking for, service objectives, and learning from failure. Use this to instrument a service, fix alerting that is ignored, set error budgets or reliability targets, prepare for on-call, or run a blameless post-incident review.
 ---
 

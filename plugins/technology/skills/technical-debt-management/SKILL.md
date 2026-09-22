@@ -1,5 +1,6 @@
 ---
 name: technical-debt-management
+version: 1.2.0
 description: Makes technical debt visible and decidable — distinguishing real debt from mess, quantifying its cost, and arguing for remediation in business terms. Use this to assess and prioritize debt, decide whether to fix or live with something, justify remediation work to non-engineers, or plan a migration off a system nobody wants to touch.
 ---
 

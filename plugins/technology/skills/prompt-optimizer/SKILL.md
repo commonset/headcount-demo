@@ -1,5 +1,6 @@
 ---
 name: prompt-optimizer
+version: 1.0.1
 description: Turns rough intent or a weak prompt into a reliable one — diagnosing why output is inconsistent, restructuring the instruction, and adapting it across models. Use this when a prompt is not producing what was wanted, when output varies run to run, when writing a prompt for a repeated task, when moving a prompt between models, or when someone describes what they want an AI to do and needs it written properly.
 ---
 

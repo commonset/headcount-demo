@@ -1,5 +1,6 @@
 ---
 name: solution-architecture
+version: 1.0.0
 description: Designs system structure and makes architectural decisions defensible — boundaries, coupling, trade-offs, and recording why. Use this to design a new system or major component, choose between architectural options, review an existing design, decide where a boundary belongs, or document an architectural decision so it survives the people who made it.
 ---
 

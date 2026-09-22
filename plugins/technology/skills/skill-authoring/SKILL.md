@@ -1,5 +1,6 @@
 ---
 name: skill-authoring
+version: 1.1.0
 description: Writes and revises agent skills so they trigger at the right moments and give usable instruction when they do. Use this when creating a new skill, editing an existing one, diagnosing a skill that fires too often or never fires, or reviewing a set of skills for overlap. Also use before adding to a skill library, to check the capability is not already covered.
 ---
 

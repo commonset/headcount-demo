@@ -1,5 +1,6 @@
 ---
 name: systematic-debugging
+version: 2.2.1
 description: Finds the root cause of a bug, test failure, or unexpected behavior before proposing any fix. Use this whenever something is broken and the cause is not yet proven — a failing test, a production error, intermittent behavior, or a symptom that appeared after a change. Also use when a fix has been attempted and did not work, or when the same bug keeps coming back.
 ---
 
