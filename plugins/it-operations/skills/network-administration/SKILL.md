@@ -1,5 +1,6 @@
 ---
 name: network-administration
+version: 1.1.0
 description: Designs and operates the corporate network — segmentation, remote access, wireless, DNS and addressing, and diagnosing network problems. Use this to segment a network, set up or fix remote access, diagnose intermittent connectivity, plan addressing or DNS, or assess whether the network's trust assumptions still hold.
 ---
 

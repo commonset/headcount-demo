@@ -1,5 +1,6 @@
 ---
 name: service-desk
+version: 1.0.1
 description: Runs the IT service desk — intake, triage, prioritization, escalation, knowledge, and the metrics that improve service rather than distort it. Use this to set up or fix a service desk, design ticket priority and escalation, reduce repeat contacts, structure a knowledge base, or work out why a desk hitting its targets still frustrates everyone.
 ---
 

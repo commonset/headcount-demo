@@ -1,5 +1,6 @@
 ---
 name: collaboration-platform-administration
+version: 1.0.0
 description: Administers the email, chat, meeting and file-sharing platform the organization runs on — tenant and domain configuration, mail authentication and routing, phishing and spam controls, shared mailboxes and distribution groups, external sharing and guest access, permission sprawl in file storage, and retention and legal hold. Use this to configure a tenant, tighten sharing, investigate a mail delivery or phishing problem, or work out who can see a file and why.
 ---
 

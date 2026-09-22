@@ -1,5 +1,6 @@
 ---
 name: cloud-administration
+version: 2.1.0
 description: Administers the cloud the company runs on rather than the one it sells — tenant and subscription structure, the SaaS estate and who owns each app, identity as the real perimeter, cloud spend that arrives as a surprise, and what the provider does not do for you. Use this to structure subscriptions or tenants, get control of sprawling SaaS, cut a cloud bill, work out who owns an application nobody admits to buying, or decide what corporate workloads belong in cloud at all.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: identity-lifecycle-administration
+version: 1.1.0
 description: Executes joiner, mover and leaver processes — provisioning, group membership, access changes on role change, and complete deprovisioning. Use this to set up or fix joiner-mover-leaver, deprovision someone completely, clean up accumulated access, audit group membership, or find accounts that outlived their owners.
 ---
 

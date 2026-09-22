@@ -1,5 +1,6 @@
 ---
 name: contract-review
+version: 1.0.0
 description: Reviews and negotiates commercial agreements — MSAs, SOWs, order forms, NDAs, vendor and data-processing agreements — identifying material risk, proposing positions, and recommending a path rather than listing issues. Use this to review a contract before signature, prepare a negotiation position, build fallback positions and approval thresholds, or assess exposure in terms already agreed.
 ---
 

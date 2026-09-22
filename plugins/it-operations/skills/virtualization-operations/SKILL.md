@@ -1,5 +1,6 @@
 ---
 name: virtualization-operations
+version: 1.1.0
 description: Runs the hypervisor layer beneath the servers — host capacity and consolidation ratios, VM sprawl, snapshot discipline, resilience and live migration, and licensing that counts cores rather than instances. Use this to size or expand a cluster, work out why VMs are slow when the hosts look idle, clean up sprawl, set snapshot and template policy, or decide what stays virtualized and what moves to cloud.
 ---
 

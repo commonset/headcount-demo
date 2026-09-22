@@ -1,5 +1,6 @@
 ---
 name: backup-and-recovery
+version: 1.0.0
 description: Protects and restores data — backup coverage and scope, retention, immutability against ransomware, and proving restores actually work. Use this to design a backup regime, verify restores, plan retention, protect backups from ransomware, or recover from data loss.
 ---
 

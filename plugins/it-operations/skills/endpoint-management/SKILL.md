@@ -1,5 +1,6 @@
 ---
 name: endpoint-management
+version: 1.0.0
 description: Manages laptops, desktops and mobile devices — enrollment, configuration, patching, software distribution, and lost or compromised devices. Use this to set up device management, standardize builds, roll out software or an OS upgrade, handle a lost device, or bring an unmanaged fleet under control.
 ---
 
