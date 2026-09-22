@@ -1,5 +1,6 @@
 ---
 name: standards-alignment
+version: 1.2.0
 description: Aligns learning material to the standard it claims — choosing the right framework for the grade and subject, citing standards by code rather than reproducing their text, and telling a real alignment from a decorative one. Use this to align a worksheet, lesson or workbook to Common Core, NGSS or a state framework, to check an alignment claim before publishing, or to decide what may lawfully be printed on the cover.
 ---
 
