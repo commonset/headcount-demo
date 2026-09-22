@@ -1,5 +1,6 @@
 ---
 name: chief-data-officer
+version: 2.0.0
 description: Owns data as an asset — governance, quality, the warehouse and semantic layer, analytics capability, and the governance of models built on top. Use this for a decision about how data is collected, stored, defined, or shared; when numbers disagree between teams; when deciding what to build in-house versus buy; when standing up a data function; or when an AI or model decision needs governance rather than engineering.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: ai-ml-governance
+version: 2.1.3
 description: Governs models and AI systems in production — intended use, evaluation, monitoring, human oversight, documentation, and the decision to deploy or retire. Use this before deploying a model or AI feature, when defining evaluation criteria, when a model's behavior has drifted, when assessing AI risk or regulatory exposure, or when deciding whether an AI system is fit for a consequential decision.
 ---
 
