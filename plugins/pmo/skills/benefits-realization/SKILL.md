@@ -1,5 +1,6 @@
 ---
 name: benefits-realization
+version: 1.0.0
 description: Ensures projects deliver the value they were approved on — defining measurable benefits, baselining, tracking after delivery, and honest post-implementation review. Use this to define benefits for a business case, set a baseline, track whether value actually landed, or run a post-implementation review that produces something useful.
 ---
 

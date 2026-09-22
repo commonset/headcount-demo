@@ -1,5 +1,6 @@
 ---
 name: portfolio-governance
+version: 1.1.0
 description: Governs the portfolio of work — intake, prioritization, stage gates, resource contention, and stopping things. Use this to set up intake and prioritization, run a stage gate, decide between competing initiatives, resolve resource contention across projects, or work out why everything is in flight and nothing is finishing.
 ---
 

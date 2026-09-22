@@ -1,5 +1,6 @@
 ---
 name: design-styles
+version: 1.0.0
 description: Applies a deliberate visual direction to an interface — minimalist editorial, industrial utilitarian, or high-polish commercial — each with its own type scale, palette behavior, surface treatment, and motion. Use this when a product needs a point of view rather than defaults, when choosing between visual directions, when an interface reads as generic, or when restyling something without changing its structure.
 ---
 

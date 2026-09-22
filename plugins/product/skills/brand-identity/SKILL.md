@@ -1,5 +1,6 @@
 ---
 name: brand-identity
+version: 1.0.0
 description: Defines and applies visual brand — logo usage, palette, typography, imagery direction, and the guidelines that keep expression consistent across product and marketing surfaces. Use this to establish a brand from scratch, audit whether an existing brand is being applied consistently, build brand guidelines, or decide how a brand should express itself in an unfamiliar format.
 ---
 

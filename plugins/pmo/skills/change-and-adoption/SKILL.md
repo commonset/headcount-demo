@@ -1,5 +1,6 @@
 ---
 name: change-and-adoption
+version: 1.0.0
 description: Gets people to actually use what was delivered — stakeholder analysis, communication, training, resistance, and measuring adoption. Use this to plan a rollout, recover an implementation nobody is using, handle resistance to a change, sequence communications, or work out why a technically successful project changed nothing.
 ---
 

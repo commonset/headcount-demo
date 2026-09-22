@@ -1,5 +1,6 @@
 ---
 name: estimating-and-contingency
+version: 1.0.0
 description: Produces a cost or effort estimate someone can defend — decomposing the work, choosing between analogous, parametric and bottom-up methods, documenting the basis and its assumptions, expressing confidence as a range, and sizing contingency and management reserve separately. Use this to build an estimate, challenge one you have been handed, work out why estimates keep coming in low, or decide how much reserve a portfolio actually needs.
 ---
 
