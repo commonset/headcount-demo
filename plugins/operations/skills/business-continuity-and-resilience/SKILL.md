@@ -1,5 +1,6 @@
 ---
 name: business-continuity-and-resilience
+version: 1.0.0
 description: Plans for operating through disruption — impact analysis, recovery objectives, continuity plans, and the exercises that prove they work. Use this to run a business impact analysis, set RTO and RPO, write or test a continuity plan, prepare for a supplier or site failure, or answer a customer's resilience questionnaire.
 ---
 

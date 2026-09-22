@@ -1,5 +1,6 @@
 ---
 name: marketing-copywriting
+version: 1.0.0
 description: Writes and edits marketing copy for any surface — homepage, product and pricing pages, ads, emails, and collateral — and sharpens existing copy that is not working. Use this to write or rewrite page copy, tighten a draft, fix copy that is vague or feature-led, adapt one message across formats, or review copy before it ships.
 ---
 

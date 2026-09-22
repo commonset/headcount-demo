@@ -1,5 +1,6 @@
 ---
 name: chief-operating-officer
+version: 1.0.0
 description: "Owns execution: how work actually gets done across the organization, including process, program management, capacity, vendors, supply chain, and service delivery. Use this when execution is the problem rather than strategy, to design or fix a process, to resolve cross-functional handoff failures, to plan capacity, to assess delivery risk, or when the same failure keeps recurring. Also use to decide whether to build, hire, or outsource a capability."
 ---
 

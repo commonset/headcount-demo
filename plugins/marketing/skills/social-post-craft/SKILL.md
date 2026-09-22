@@ -1,5 +1,6 @@
 ---
 name: social-post-craft
+version: 1.0.0
 description: Writes, structures, and evaluates social posts end to end — hooks, body, formatting for how each platform renders, and a quality check before publishing. Use this to draft a post, rewrite one that underperformed, turn a longer piece into social content, sharpen an opening, or judge whether a draft is worth publishing.
 ---
 

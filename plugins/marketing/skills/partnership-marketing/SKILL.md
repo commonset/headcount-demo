@@ -1,5 +1,6 @@
 ---
 name: partnership-marketing
+version: 1.0.0
 description: Builds reach through other people's audiences — co-marketing partnerships, creator and influencer programs, and community building. Use this to find and evaluate partners, structure a joint campaign or creator deal, plan a community strategy, or decide whether a partnership is worth the coordination cost.
 ---
 

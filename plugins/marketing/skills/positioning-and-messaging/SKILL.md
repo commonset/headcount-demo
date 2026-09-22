@@ -1,5 +1,6 @@
 ---
 name: positioning-and-messaging
+version: 1.0.0
 description: Establishes what a product is understood to be, for whom, and instead of what — then turns that into the messaging every other surface inherits. Use this when messaging is inconsistent across channels, when prospects misunderstand what the product does, when entering a new segment, when competitors are being compared against you unfavorably, or before any campaign, launch, or site rewrite.
 ---
 

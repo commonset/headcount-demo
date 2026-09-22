@@ -1,5 +1,6 @@
 ---
 name: product-launch
+version: 2.2.1
 description: Takes something built and gets it into the market — tiering the launch to match what it actually warrants, sequencing internal readiness before external announcement, preparing sales and support to answer the questions it creates, choosing the date for a reason, and measuring adoption rather than announcement reach. Use this to plan a launch, right-size one that is consuming more than it deserves, work out why a released feature nobody uses was launched loudly, or run the weeks after launch day.
 ---
 

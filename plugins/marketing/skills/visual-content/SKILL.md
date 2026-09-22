@@ -1,5 +1,6 @@
 ---
 name: visual-content
+version: 1.0.1
 description: Designs and directs the visual assets that carry content — carousels, infographics, quote graphics, diagrams, and social imagery — including the generation prompts where they are AI-produced. Use this to turn a written piece into a visual format, design a carousel or infographic, create social graphics, or fix visuals that are not stopping the scroll.
 ---
 
