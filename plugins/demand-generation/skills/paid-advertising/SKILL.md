@@ -1,5 +1,6 @@
 ---
 name: paid-advertising
+version: 1.2.0
 description: Plans, runs, and optimizes paid acquisition across search, social, and display — account structure, targeting, creative, bidding, budget, and the analysis that says whether to scale or stop. Use this to set up or restructure campaigns, write and iterate ad creative, diagnose rising costs or falling performance, decide budget allocation, or judge whether a channel is working.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: lifecycle-messaging
+version: 2.2.1
 description: Designs automated email and SMS programs — welcome and onboarding sequences, nurture, re-engagement, transactional messaging, and the timing and segmentation behind them. Use this to build or fix an email sequence, plan lifecycle automation, improve open or click performance, set up SMS flows, or decide what messages a customer should receive and when.
 ---
 

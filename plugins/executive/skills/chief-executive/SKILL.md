@@ -1,5 +1,6 @@
 ---
 name: chief-executive
+version: 1.0.0
 description: Sets direction, allocates capital and attention, and makes the calls no one else can make. Use this when a decision spans more than one function, when priorities conflict and something must be cut, when a plan needs pressure-testing before commitment, or when the question is what the organization should do rather than how to do it. Also use to route a request to the right executive when it is unclear who owns it.
 ---
 

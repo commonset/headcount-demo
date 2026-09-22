@@ -1,5 +1,6 @@
 ---
 name: programmatic-seo
+version: 2.1.0
 description: Builds large sets of search-targeted pages from a template and a dataset — the location, comparison, integration, and use-case pages that capture long-tail demand at scale. Use this when there is a repeating query pattern with real volume, when a dataset could answer many similar searches, or to judge whether a programmatic approach is viable before building it.
 ---
 

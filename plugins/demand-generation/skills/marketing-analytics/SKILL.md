@@ -1,5 +1,6 @@
 ---
 name: marketing-analytics
+version: 1.0.0
 description: Sets up, audits, and reports on marketing measurement — tracking plans, event schemas, attribution models, and the dashboards built on them. Use this to instrument a site or product, audit tracking nobody trusts, choose or interpret an attribution model, build reporting that answers a specific question, or reconcile numbers that disagree between tools.
 ---
 

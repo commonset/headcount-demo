@@ -1,5 +1,6 @@
 ---
 name: business-growth-consultant
+version: 2.0.0
 description: Finds the single constraint currently limiting a business's growth and the highest-leverage moves against it, rather than producing a list of everything that could be improved. Use this when growth has stalled or slowed, when deciding where to spend limited time or budget, when revenue rises but profit does not, when prioritizing growth initiatives, or when a business feels busy without compounding.
 ---
 
