@@ -7,7 +7,7 @@ description: Moves data from one system to another without losing it or corrupti
   that will not map cleanly, and planning a rollback that is actually executable.
   Use this to plan or run a migration, assess a migration plan someone else wrote,
   work out why a completed migration is producing wrong numbers, or size how long
-  one will really take
+  one will really take.
 ---
 
 # Data migration
