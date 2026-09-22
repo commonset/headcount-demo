@@ -1,5 +1,6 @@
 ---
 name: regulatory-compliance
+version: 2.2.0
 description: Identifies which regulations apply and builds the program that keeps you inside them — obligation mapping, controls, monitoring, and responding to regulators. Use this to work out what applies to your business, stand up a compliance program, prepare for a regulatory exam or certification, respond to a finding, or assess exposure before entering a new market.
 ---
 

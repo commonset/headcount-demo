@@ -1,5 +1,6 @@
 ---
 name: enterprise-risk
+version: 1.2.0
 description: Identifies, assesses, and tracks organizational risk — building and maintaining a risk register, scoring exposure, assigning owners and treatments, and preparing for audit. Use this to stand up a risk program, assess the risk in a decision or initiative, prepare for a certification or audit, decide whether a risk should be accepted, mitigated, transferred, or avoided, or report risk posture to leadership.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: brand-voice
+version: 1.2.0
 description: Captures how a person or brand actually writes and turns it into reusable voice instructions every other content skill draws from. Use this before drafting any content for a new brand or client, when output keeps coming back sounding generic, when several writers need to sound like one, or when a voice needs defining without existing samples to learn from.
 ---
 

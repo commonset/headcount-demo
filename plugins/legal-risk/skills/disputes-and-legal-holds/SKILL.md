@@ -1,5 +1,6 @@
 ---
 name: disputes-and-legal-holds
+version: 2.1.0
 description: Handles a dispute from the first sign of it — recognizing when preservation obligations attach, issuing and scoping a legal hold, suspending automatic deletion across every system that holds relevant material, preserving privilege, managing outside counsel and cost, and evaluating settlement against the real cost of continuing. Use this to respond to a claim or demand letter, issue a hold, work out which systems the hold has to reach, or decide whether to fight.
 ---
 
