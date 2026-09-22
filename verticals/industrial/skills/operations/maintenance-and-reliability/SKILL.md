@@ -1,5 +1,6 @@
 ---
 name: maintenance-and-reliability
+version: 1.0.0
 description: Keeps production assets available — ranking equipment by consequence of failure, setting preventive and predictive intervals, sizing spares, and moving a plant off reactive maintenance. Use this to build or fix a maintenance program, decide what to put on a PM schedule, diagnose repeat failures on one asset, justify spares inventory, or work out why a plant that maintains everything still has unplanned downtime.
 ---
 

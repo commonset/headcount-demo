@@ -1,5 +1,6 @@
 ---
 name: learning-materials-design
+version: 1.0.0
 description: Designs worksheets, workbooks and practice material that actually teach — sequencing difficulty, managing cognitive load, writing instructions a child can follow unaided, and building answer keys that hold up. Use this to design or fix a worksheet or workbook, decide how much practice a skill needs, structure a page so it can be completed without an adult reading it aloud, or diagnose material that looks right and does not work.
 ---
 

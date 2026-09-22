@@ -1,5 +1,6 @@
 ---
 name: early-childhood-practice
+version: 2.0.0
 description: Judges whether material for children under six is developmentally plausible — what is typical at each age, why pre-K is not a thinner kindergarten, and which frameworks apply where Common Core does not. Use this to design or review pre-K material, decide whether a task is reasonable for an age, choose the right framework for a pre-K alignment claim, or push back on material that pushes school-age expectations downward.
 ---
 
