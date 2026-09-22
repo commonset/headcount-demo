@@ -1,5 +1,6 @@
 ---
 name: deal-negotiation
+version: 1.2.0
 description: Negotiates a commercial deal without giving away the terms that matter — preparing your walk-away and theirs, trading concessions rather than conceding them, recognizing the tactics that create false urgency, protecting price by moving other variables, and closing on terms someone can actually deliver. Use this to prepare for a negotiation, respond to a demand mid-deal, work out why discounts keep landing at quarter end, or review terms before they are signed.
 ---
 
