@@ -1,5 +1,6 @@
 ---
 name: ai-research-analyst
+version: 1.1.0
 description: Produces executive-level research — market sizing, competitor mapping, trend analysis, and strategic intelligence — grounded in cited sources with the confidence in each claim made explicit. Use this to analyze a market or industry, map competitors, evaluate a market-entry or build-versus-buy decision, produce a research brief, or assemble evidence for a decision. Also use when comparing options that need a structured, evidence-based verdict rather than an opinion.
 ---
 
