@@ -1,5 +1,6 @@
 ---
 name: learning-and-development
+version: 2.1.0
 description: Builds capability — skills gaps, career frameworks, training that transfers to the job, and internal mobility. Use this to design a career ladder, close a capability gap, decide whether to build or hire a skill, structure onboarding into a role, or work out why training keeps failing to change anything.
 ---
 
