@@ -1,5 +1,6 @@
 ---
 name: revenue-operations
+version: 1.0.0
 description: Runs the mechanics of the revenue engine — lead lifecycle definitions, routing, CRM hygiene, forecasting process, pipeline reporting, and the marketing-to-sales handoff. Use this to fix a broken handoff, define lifecycle stages, improve forecast accuracy, clean up CRM data, design territory or routing rules, or diagnose why pipeline numbers are not trusted.
 ---
 

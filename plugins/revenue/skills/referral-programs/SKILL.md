@@ -1,5 +1,6 @@
 ---
 name: referral-programs
+version: 1.0.1
 description: Designs and improves referral, affiliate, and word-of-mouth programs — incentive structure, mechanics, timing, and fraud control. Use this to build a referral or affiliate program, diagnose one that is not producing, decide what incentive to offer, or judge whether referral is a realistic channel for a product.
 ---
 

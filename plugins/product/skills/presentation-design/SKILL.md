@@ -1,5 +1,6 @@
 ---
 name: presentation-design
+version: 1.0.1
 description: Designs slide decks and one-pagers that carry an argument rather than decorate one — deck structure, headlines that state the takeaway, charts that make a single point, and the different rules board decks and conference talks follow. Use this to build or fix a pitch deck, board deck, or conference talk, to design a one-pager, or when a deck is dense, unfocused, or being read aloud from the slides. For social graphics, carousels and infographics, use `marketing:visual-content` instead.
 ---
 

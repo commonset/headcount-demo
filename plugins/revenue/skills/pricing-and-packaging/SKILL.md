@@ -1,5 +1,6 @@
 ---
 name: pricing-and-packaging
+version: 1.1.0
 description: Sets price, structures packages and tiers, and designs the monetization surfaces that carry them — upgrade paths, paywalls, and offer construction. Use this to set or change pricing, design or restructure tiers, choose a pricing metric, build an offer, design upgrade prompts and paywalls, or evaluate whether a pricing change is safe to make.
 ---
 
