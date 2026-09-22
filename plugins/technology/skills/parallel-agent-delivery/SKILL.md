@@ -1,5 +1,6 @@
 ---
 name: parallel-agent-delivery
+version: 1.0.1
 description: Splits work across multiple agents or sessions running at once, keeping their surfaces disjoint so results merge cleanly. Use this when facing several independent tasks with no shared state, when a plan has parallelizable steps, when a broad search or audit would be faster fanned out, or when deciding whether work can safely be split at all.
 ---
 

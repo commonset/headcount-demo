@@ -1,5 +1,6 @@
 ---
 name: test-driven-development
+version: 2.1.0
 description: Drives implementation by writing a failing test first, then the smallest code that passes it. Use this before writing implementation code for any feature or bugfix, when a bug needs a regression test, when existing code is hard to change safely, or when someone asks whether a change is covered. Also use to decide what is worth testing and what is not.
 ---
 

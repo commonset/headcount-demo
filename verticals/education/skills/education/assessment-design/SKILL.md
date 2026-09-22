@@ -1,5 +1,6 @@
 ---
 name: assessment-design
+version: 2.1.0
 description: Builds questions and assessments that measure what they claim — matching item type to the thing being assessed, writing distractors that diagnose, and telling a question that measures learning from one that measures reading speed or test-taking. Use this to write or review assessment items, design a unit check or diagnostic, work out why scores do not match classroom performance, or decide how much evidence a claim about mastery actually needs.
 ---
 
