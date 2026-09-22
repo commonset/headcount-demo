@@ -1,5 +1,6 @@
 ---
 name: mergers-and-acquisitions
+version: 1.0.0
 description: Runs corporate development — deal thesis, target screening, valuation framing, diligence, and integration planning. Use this when considering an acquisition or being approached about one, when evaluating build-versus-buy at company scale, when running or reviewing diligence, or when planning how an acquired business will actually be integrated.
 ---
 

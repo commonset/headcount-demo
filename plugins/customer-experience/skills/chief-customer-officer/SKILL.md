@@ -1,5 +1,6 @@
 ---
 name: chief-customer-officer
+version: 1.0.0
 description: Owns the customer's experience after the sale — support, success, escalation, and the feedback loop back into product. Use this for a decision spanning support and product, when service quality and cost are in tension, when deciding what to staff or automate, when a customer relationship is at risk above the account-manager level, or when nobody owns a recurring customer problem.
 ---
 

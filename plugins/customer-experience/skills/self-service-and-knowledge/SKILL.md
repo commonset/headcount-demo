@@ -1,5 +1,6 @@
 ---
 name: self-service-and-knowledge
+version: 1.1.0
 description: Builds the help center, in-product guidance, and knowledge base that let customers resolve problems without contacting anyone — content, findability, maintenance, and deflection measurement. Use this to build or fix a help center, reduce support volume, write documentation for customers, improve findability, or decide what deserves a help article versus a product fix.
 ---
 

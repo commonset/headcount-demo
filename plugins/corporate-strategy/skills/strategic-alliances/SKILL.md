@@ -1,5 +1,6 @@
 ---
 name: strategic-alliances
+version: 1.2.0
 description: Structures partnerships that change what the business can do — technology integrations, channel and reseller arrangements, joint ventures, and OEM relationships. Use this to evaluate or structure a strategic partnership, decide between partnering and building, negotiate commercial terms of an alliance, or diagnose a partnership that is signed but not producing. For audience-borrowing partnerships, use `marketing:partnership-marketing`.
 ---
 

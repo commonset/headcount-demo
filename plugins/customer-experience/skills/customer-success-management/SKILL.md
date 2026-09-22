@@ -1,5 +1,6 @@
 ---
 name: customer-success-management
+version: 2.1.0
 description: Runs the ongoing relationship with accounts after the sale — segmenting coverage against account value, building a health score that predicts rather than describes, running reviews customers find worth attending, forecasting renewals honestly, and finding expansion that follows usage instead of quota. Use this to design a customer success motion, decide who gets a named contact, work out why renewals surprise you, or fix a health score everyone ignores.
 ---
 

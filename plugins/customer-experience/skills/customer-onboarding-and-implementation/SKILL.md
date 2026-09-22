@@ -1,5 +1,6 @@
 ---
 name: customer-onboarding-and-implementation
+version: 1.0.1
 description: Takes a new customer from signature to working — setting a definition of live that both sides agreed before the contract was signed, planning and staffing the implementation, running data migration and integration realistically, training the people who will actually use it, and handing over to the ongoing relationship. Use this to design an onboarding motion, rescue a stalled implementation, work out why customers who bought never went live, or scope the services a deal actually needs.
 ---
 
