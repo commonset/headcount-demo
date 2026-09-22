@@ -1,5 +1,6 @@
 ---
 name: corporate-governance
+version: 1.1.0
 description: Maintains the corporate record and the governance machinery — entity records, board and committee support, resolutions and minutes, delegations of authority, insurance, and business continuity. Use this to prepare board or committee materials, record a decision that needs to be minuted, set or check approval authority, review insurance and continuity coverage, establish a retention policy, or work out where a responsibility belongs when it falls between functions.
 ---
 

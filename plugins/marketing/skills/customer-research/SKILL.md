@@ -1,5 +1,6 @@
 ---
 name: customer-research
+version: 1.0.0
 description: Plans, runs, and synthesizes customer research — interviews, surveys, win-loss analysis, and message testing — into findings that change decisions. Use this when the customer is being guessed at, before positioning or a major launch, when churn or conversion has an unexplained cause, or when a team is arguing from anecdotes. Also use to turn raw interview notes into usable findings.
 ---
 

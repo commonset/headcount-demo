@@ -1,5 +1,6 @@
 ---
 name: privacy-and-data-protection
+version: 1.0.0
 description: Assesses and improves how personal data is collected, used, shared, and retained — data mapping, lawful basis, consent, processor agreements, subject rights, and breach obligations. Use this before launching anything that handles personal data, when adding a vendor that will process it, when a data subject request arrives, when assessing exposure under GDPR or US state privacy laws, or when preparing for a privacy review.
 ---
 

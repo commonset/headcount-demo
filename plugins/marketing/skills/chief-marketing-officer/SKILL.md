@@ -1,5 +1,6 @@
 ---
 name: chief-marketing-officer
+version: 1.2.0
 description: Owns brand, demand generation, content, communications, and how the market understands what the business does. Use this to set marketing strategy, allocate budget across channels, decide positioning and messaging, judge whether a campaign is worth running, diagnose why demand has stalled, or arbitrate between brand-building and short-term acquisition. Also use to decide which marketing work to stop.
 ---
 

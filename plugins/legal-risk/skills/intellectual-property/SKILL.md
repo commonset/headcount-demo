@@ -1,5 +1,6 @@
 ---
 name: intellectual-property
+version: 2.0.0
 description: Covers what the organization owns and what it is only borrowing — trademarks and clearance, copyright and work-for-hire, patents and trade secrets, open-source license obligations and copyleft reach, and IP terms in customer, contractor and AI-tool agreements. Use this to check whether a name is usable, establish that you own work you paid for, decide how to handle a license obligation in a dependency, or respond to an infringement claim.
 ---
 

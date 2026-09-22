@@ -1,5 +1,6 @@
 ---
 name: content-strategy
+version: 1.0.0
 description: Decides what content to make and why — topic territory, format mix, cadence, and how content connects to a business outcome rather than to traffic. Use this to plan a content program, choose topics, build an editorial calendar, decide which formats and platforms to commit to, or diagnose why content is producing audience but not results.
 ---
 

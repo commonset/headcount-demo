@@ -1,5 +1,6 @@
 ---
 name: chief-content-officer
+version: 1.1.0
 description: Runs content as an operation — the production pipeline, editorial calendar, repurposing engine, competitive content intelligence, and audits of what already exists. Use this to build or fix a content production system, plan a calendar, decide how one piece becomes many, rank content ideas by expected impact, or audit an existing library for what to update, consolidate, or retire. For deciding what territory to own and why, use `content-strategy` first.
 ---
 
