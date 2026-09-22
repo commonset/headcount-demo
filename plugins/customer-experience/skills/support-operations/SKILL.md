@@ -1,5 +1,6 @@
 ---
 name: support-operations
+version: 2.2.0
 description: Designs and runs the support function — channels, queues, routing, staffing, service levels, quality, and the metrics that show whether it is working. Use this to set up or fix support operations, choose channels, size a team, set or renegotiate service levels, reduce cost per contact, diagnose long queues or poor quality, or decide what to automate.
 ---
 

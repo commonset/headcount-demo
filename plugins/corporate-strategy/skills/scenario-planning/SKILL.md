@@ -1,5 +1,6 @@
 ---
 name: scenario-planning
+version: 1.0.0
 description: Plans under genuine uncertainty — building scenarios, identifying which assumptions are load-bearing, setting early-warning indicators, and stress-testing a plan against futures rather than forecasting one. Use this when a decision depends on something unknowable, when a plan assumes conditions that may not hold, before a large irreversible commitment, or when a market, regulatory, or technology shift could invalidate the strategy.
 ---
 
