@@ -1,5 +1,6 @@
 ---
 name: code-review
+version: 1.2.0
 description: Conducts and responds to code review — reviewing a change for correctness, design, and risk, and evaluating review feedback received on your own work. Use this before merging, when asked to review a diff or pull request, when review feedback has arrived and needs acting on, or when feedback seems wrong and needs a reasoned response rather than compliance.
 ---
 

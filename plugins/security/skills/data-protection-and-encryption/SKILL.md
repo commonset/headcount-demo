@@ -1,5 +1,6 @@
 ---
 name: data-protection-and-encryption
+version: 1.0.1
 description: Protects data itself rather than the systems around it — classifying what you hold, encrypting in transit and at rest and understanding what each actually defends against, managing keys and their rotation, handling secrets in applications and pipelines, minimizing and de-identifying, and deleting on purpose. Use this to design data protection for a system, assess an encryption claim, set up key or secret management, or work out what a stolen backup would actually expose.
 ---
 
