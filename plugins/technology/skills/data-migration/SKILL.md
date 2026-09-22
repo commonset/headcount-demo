@@ -1,7 +1,13 @@
 ---
 name: data-migration
-version: 2.1.0
-description: Moves data from one system to another without losing it or corrupting it — profiling the source before mapping, deciding between big-bang and parallel-run cutover, reconciling counts and values rather than assuming, handling the records that will not map cleanly, and planning a rollback that is actually executable. Use this to plan or run a migration, assess a migration plan someone else wrote, work out why a completed migration is producing wrong numbers, or size how long one will really take.
+version: 2.1.1
+description: Moves data from one system to another without losing it or corrupting
+  it — profiling the source before mapping, deciding between big-bang and parallel-run
+  cutover, reconciling counts and values rather than assuming, handling the records
+  that will not map cleanly, and planning a rollback that is actually executable.
+  Use this to plan or run a migration, assess a migration plan someone else wrote,
+  work out why a completed migration is producing wrong numbers, or size how long
+  one will really take
 ---
 
 # Data migration
