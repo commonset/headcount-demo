@@ -1,5 +1,6 @@
 ---
 name: events-and-field-marketing
+version: 1.1.0
 description: Plans and runs events that produce pipeline — conferences, trade shows, webinars, field programs, and measuring whether any of it worked. Use this to decide whether to sponsor an event, plan a conference presence or webinar, design a field program, or work out why event spend is not producing pipeline.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: marketing-campaign-planner
+version: 1.0.1
 description: Designs a coordinated multi-channel campaign or product launch around one story — objective, message, channel sequencing, timeline, assets, and the checklist that gets it out the door. Use this to plan a launch or campaign, sequence a go-to-market push, pressure-test a campaign before committing budget, or turn a product change into a coordinated set of activity. For ongoing channel programs rather than a bounded push, use `marketing-planning`.
 ---
 
