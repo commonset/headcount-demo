@@ -1,5 +1,6 @@
 ---
 name: listing-distribution
+version: 1.1.0
 description: Gets a product listed where buyers and crawlers look — directories, marketplaces, review sites, comparison pages, and aggregators. Use this to plan a submission push, choose which directories are worth the effort, prepare listing assets, build comparison and alternative pages, or manage presence on review platforms.
 ---
 

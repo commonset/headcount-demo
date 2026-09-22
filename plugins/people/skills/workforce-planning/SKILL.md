@@ -1,5 +1,6 @@
 ---
 name: workforce-planning
+version: 1.1.0
 description: Plans the shape and size of the workforce — demand for roles, build-versus-buy, attrition, and sequencing hiring against budget. Use this to build a hiring plan, decide which roles to open and in what order, model attrition and backfill, plan for a growth or contraction scenario, or connect headcount plans to the budget.
 ---
 

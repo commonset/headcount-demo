@@ -1,5 +1,6 @@
 ---
 name: visual-reference-generation
+version: 1.0.1
 description: Produces design reference imagery before implementation — screen concepts, layout directions, and flows for web or mobile that make a verbal brief concrete enough to argue with. Use this when a brief needs visualizing before anyone builds, when comparing layout directions, when handing a developer a target, or when stakeholders are describing different things with the same words.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: newsletter-writer
+version: 2.2.0
 description: Writes and edits newsletters and marketing emails people actually open — subject lines, opening, structure, voice, and the conversion turn where there is one. Use this to draft or rewrite a newsletter or email, sharpen weak email copy, plan a newsletter's structure and cadence, write a sequence, or repurpose an issue into other formats. For automated lifecycle and SMS programs, use `lifecycle-messaging`.
 ---
 

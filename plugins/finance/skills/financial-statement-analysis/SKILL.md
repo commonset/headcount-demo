@@ -1,5 +1,6 @@
 ---
 name: financial-statement-analysis
+version: 2.1.3
 description: Reads a set of financial statements and establishes what changed and why — fluctuation analysis against prior period and against budget, profitability, liquidity, solvency and efficiency ratios, benchmarking, and the non-GAAP measures presented alongside them. Use this to interpret results, review a counterparty's or target's financials, diagnose a deteriorating trend, explain a variance to someone who will act on it, or test whether an adjusted number is honest.
 ---
 

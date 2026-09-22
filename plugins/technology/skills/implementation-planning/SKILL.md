@@ -1,5 +1,6 @@
 ---
 name: implementation-planning
+version: 3.0.0
 description: Turns a spec or requirement into a written plan a separate session or agent can execute, then drives that plan through review checkpoints. Use this before touching code on any multi-step task, when work needs handing to someone else, when a task keeps sprawling mid-implementation, or when a plan exists and needs executing in order with verification between steps.
 ---
 

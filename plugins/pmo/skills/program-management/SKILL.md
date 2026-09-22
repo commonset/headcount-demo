@@ -1,5 +1,6 @@
 ---
 name: program-management
+version: 2.1.3
 description: Plans and drives cross-functional programs to delivery — scope, sequencing, dependencies, status, risk, and the escalations that keep work moving. Use this to run a multi-team initiative, recover a program that is slipping, build a delivery plan with dependencies, structure status reporting, or diagnose why cross-team work keeps missing dates.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: product-requirements
+version: 1.3.2
 description: Writes down what is being built so a team can build it and know when they are done — problem and success measure before solution, scope stated by exclusion, user-visible behavior including the states everyone forgets, acceptance criteria someone can test, and the open questions named rather than buried. Use this to write a specification, review one that is causing rework, or work out why a delivered feature technically matched the request and still was not what anyone wanted.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: dependency-and-risk-management
+version: 1.1.0
 description: Manages delivery risk and cross-team dependencies — identifying, sizing, mitigating and escalating what could stop the work. Use this to build a risk register that gets used, manage dependencies between teams, decide what to escalate and when, or work out why the same risks keep materializing unmanaged.
 ---
 

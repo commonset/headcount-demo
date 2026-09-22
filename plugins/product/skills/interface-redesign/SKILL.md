@@ -1,5 +1,6 @@
 ---
 name: interface-redesign
+version: 3.0.0
 description: Upgrades an existing interface to a higher standard without rebuilding it — auditing what is there, identifying what reads as generic or unfinished, and sequencing changes by impact. Use this when a product works but looks dated or default, when a redesign is being considered, when deciding whether to restyle or rebuild, or when a screen needs to look substantially better with limited effort.
 ---
 

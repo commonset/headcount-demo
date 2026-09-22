@@ -1,5 +1,6 @@
 ---
 name: outbound-prospecting
+version: 1.3.2
 description: Finds, qualifies, and reaches prospects through cold outreach — list building, qualification criteria, cold email and multi-channel sequences, and the follow-up that actually gets replies. Use this to build a prospect list, write cold outreach, fix a sequence that is not getting responses, define qualification criteria, or decide whether a segment is worth pursuing.
 ---
 

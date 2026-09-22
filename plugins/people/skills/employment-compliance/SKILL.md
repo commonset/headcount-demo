@@ -1,5 +1,6 @@
 ---
 name: employment-compliance
+version: 1.3.2
 description: Covers the employment rules that carry real penalties — exempt and non-exempt classification, overtime and hours, employee versus contractor status, work authorization and recordkeeping, accommodation requests, and the notices and retention obligations that go with them. Use this to classify a role, review a contractor arrangement, respond to an accommodation request, work out what records to keep and for how long, or sanity-check a practice you inherited.
 ---
 

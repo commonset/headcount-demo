@@ -1,5 +1,6 @@
 ---
 name: behavioral-marketing
+version: 2.0.0
 description: Applies decision science and cognitive bias research to marketing and product decisions — how people actually choose under uncertainty, and how framing, defaults, sequencing, and social context change behavior. Use this to diagnose why a well-argued offer is not converting, to structure choices and pricing presentation, to design an experience around how attention and memory work, or to pressure-test whether a persuasion tactic is legitimate or manipulative.
 ---
 

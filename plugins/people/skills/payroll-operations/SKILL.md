@@ -1,5 +1,6 @@
 ---
 name: payroll-operations
+version: 1.3.2
 description: Runs the pay cycle so it is right, on time, and provable — the calendar and cutoffs, what feeds pay from the HRIS and time systems, gross-to-net and the deductions in it, multi-jurisdiction registration and tax filing, off-cycle payments and corrections, and the reconciliation to the general ledger. Use this to design or audit a payroll process, work out what happens when someone is paid wrong, or understand what changes when you hire in a new state or country.
 ---
 

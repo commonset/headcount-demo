@@ -1,5 +1,6 @@
 ---
 name: facilities-and-workplace
+version: 2.1.3
 description: Runs the physical and hybrid workplace — space planning, leases, health and safety, office services, and the operational side of where people work. Use this to plan space, evaluate a lease or office move, set up a hybrid workplace, handle facilities incidents, or decide what office services are worth funding.
 ---
 

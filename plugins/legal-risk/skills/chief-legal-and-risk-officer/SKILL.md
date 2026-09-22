@@ -1,5 +1,6 @@
 ---
 name: chief-legal-and-risk-officer
+version: 2.2.0
 description: Owns legal, contracts, intellectual property, regulatory compliance, privacy, security governance, enterprise risk, and audit readiness. Use this to review a contract or commitment, assess regulatory or privacy exposure, evaluate an IP or licensing question, judge the risk in a business decision, prepare for an audit or certification, or when a plan may create obligations the business cannot meet. Also use to decide whether a risk should be accepted, mitigated, or refused.
 ---
 

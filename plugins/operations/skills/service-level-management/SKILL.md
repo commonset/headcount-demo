@@ -1,5 +1,6 @@
 ---
 name: service-level-management
+version: 1.2.0
 description: Defines and manages service levels — setting targets that reflect what customers need, measuring honestly, and handling breaches. Use this to write or negotiate an SLA, decide what to measure and at what threshold, respond to a missed service level, or work out why a service that meets its targets still has unhappy customers.
 ---
 

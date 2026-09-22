@@ -1,5 +1,6 @@
 ---
 name: fundraising-and-investor-relations
+version: 1.0.0
 description: Raises capital and manages the relationship afterward — deciding how much and why, understanding what dilution and preferences actually cost, running a process with real competitive tension, preparing for diligence before it starts, and reporting to investors and a board in a way that keeps support when results are bad. Use this to plan a raise, evaluate a term sheet beyond the valuation, prepare a data room, or fix reporting that is producing surprises.
 ---
 

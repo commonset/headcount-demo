@@ -1,5 +1,6 @@
 ---
 name: release-and-deployment
+version: 1.1.0
 description: Ships changes safely and often — pipelines, deployment strategies, feature flags, rollback, and database changes. Use this to design a deployment pipeline, reduce release risk, roll out a risky change gradually, plan a schema migration, or work out why releases are infrequent and frightening.
 ---
 

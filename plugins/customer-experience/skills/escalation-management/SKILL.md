@@ -1,5 +1,6 @@
 ---
 name: escalation-management
+version: 2.0.0
 description: Handles customer situations that have exceeded normal support — severity assessment, incident communication, executive escalation, and recovering a relationship after a failure. Use this when a customer issue is escalating or has gone to leadership, during a customer-affecting outage, when a major account is at risk, when a relationship needs repairing after a failure, or to design the escalation path itself.
 ---
 

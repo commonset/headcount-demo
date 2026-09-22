@@ -1,5 +1,6 @@
 ---
 name: api-design
+version: 1.0.0
 description: Designs interfaces that survive their consumers — resource modeling, errors, versioning, pagination, and compatibility. Use this to design a new API, review one before it ships, decide how to version or deprecate, fix an interface consumers keep misusing, or work out whether a change is breaking.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: production-management
+version: 1.0.1
 description: Runs the production schedule — sequencing and releasing work, managing work in process and changeovers, and holding the promised date when the floor and the order book disagree. Use this to build or fix a production schedule, decide what to run next, diagnose why lead times are growing while machines look busy, set up OEE or throughput measurement, or choose between make-to-stock and make-to-order for a product line.
 ---
 

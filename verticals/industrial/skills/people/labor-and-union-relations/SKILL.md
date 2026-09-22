@@ -1,5 +1,6 @@
 ---
 name: labor-and-union-relations
+version: 1.0.1
 description: Manages the relationship with a represented workforce — administering a collective agreement, handling grievances, understanding what supervisors may and may not say, and preparing for bargaining. Use this for a grievance or arbitration question, a work rule change in a represented unit, supervisor guidance during organizing, contract interpretation and past practice, or preparation for negotiations.
 ---
 

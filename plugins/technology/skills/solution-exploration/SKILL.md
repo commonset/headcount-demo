@@ -1,5 +1,6 @@
 ---
 name: solution-exploration
+version: 2.2.0
 description: Explores the problem and the range of possible approaches before any code is written — clarifying what is actually being asked, surfacing options with their tradeoffs, and converging on one. Use this at the start of any feature, component, or behavior change, when a request is ambiguous, when the first idea is the only idea on the table, or when a design decision needs pressure-testing before commitment.
 ---
 

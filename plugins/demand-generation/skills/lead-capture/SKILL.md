@@ -1,5 +1,6 @@
 ---
 name: lead-capture
+version: 1.1.0
 description: Converts anonymous traffic into known contacts — lead magnets, gated content, free tools, popups, and the forms behind them. Use this to design or improve a lead magnet, plan a free tool, add or fix popups and overlays, improve form conversion, or decide what is worth gating and what should stay open.
 ---
 

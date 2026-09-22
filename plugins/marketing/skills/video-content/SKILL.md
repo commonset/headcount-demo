@@ -1,5 +1,6 @@
 ---
 name: video-content
+version: 1.1.0
 description: Plans and scripts short-form and long-form video, and designs the packaging — titles, thumbnails, and openings — that determines whether it gets watched. Use this to script a video, plan a series, fix retention or click-through problems, design thumbnail and title concepts, or turn written content into video. For a YouTube channel specifically — idea selection, retention teardowns, and channel-level strategy — use `youtube-producer`.
 ---
 

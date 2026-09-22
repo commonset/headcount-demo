@@ -1,5 +1,6 @@
 ---
 name: public-relations
+version: 1.3.2
 description: Plans and executes earned media — press strategy, journalist outreach, announcements, commentary, and crisis response. Use this to plan a press push, write a pitch or release, find and approach the right journalists, prepare for an interview, decide whether something is newsworthy, or respond to a story going badly.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: product-discovery
+version: 2.1.0
 description: Finds out whether a problem is real and a solution would work, before building it — recruiting the right people, interviewing without leading them, separating what users say from what they do, naming the riskiest assumption and testing that one first, and reaching a decision rather than a summary. Use this to validate a problem, test an idea cheaply, decide whether to build something, or fix a discovery process that keeps confirming what the team already believed.
 ---
 

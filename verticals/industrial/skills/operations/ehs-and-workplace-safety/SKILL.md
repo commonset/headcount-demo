@@ -1,5 +1,6 @@
 ---
 name: ehs-and-workplace-safety
+version: 1.1.0
 description: Runs environment, health and safety on an operating site — hazard controls in order of effectiveness, incident recording and reporting obligations, and safety measurement that does not reward silence. Use this to build or audit a safety program, decide what controls a hazard actually needs, work out whether an injury is recordable or reportable, investigate an incident, or fix safety metrics that have stopped producing reports.
 ---
 

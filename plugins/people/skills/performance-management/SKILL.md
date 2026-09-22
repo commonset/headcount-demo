@@ -1,5 +1,6 @@
 ---
 name: performance-management
+version: 2.1.0
 description: Runs performance systems that change behavior — expectations, feedback, review cycles, calibration, and handling underperformance. Use this to design or fix a review process, run calibration, write or coach on feedback, address sustained underperformance, or work out why reviews consume weeks and change nothing.
 ---
 

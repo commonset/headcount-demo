@@ -1,5 +1,6 @@
 ---
 name: incident-response
+version: 1.0.1
 description: Runs a security incident from detection to closure — triage, containment, investigation, communication, and the review afterward. Use this when a compromise is suspected or confirmed, when preparing an incident response plan or running an exercise, when deciding whether something is an incident, or when a breach may trigger notification obligations.
 ---
 

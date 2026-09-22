@@ -1,5 +1,6 @@
 ---
 name: business-intelligence
+version: 1.0.0
 description: Builds reporting and self-serve analytics that people actually use — metric trees, dashboard design, distribution, and the discipline that stops dashboards proliferating. Use this to build a dashboard or report, design a metrics framework, set up self-serve analytics, decide what to measure, or diagnose why reporting exists but nobody uses it or trusts it.
 ---
 

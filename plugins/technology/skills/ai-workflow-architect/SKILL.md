@@ -1,5 +1,6 @@
 ---
 name: ai-workflow-architect
+version: 2.0.0
 description: Designs AI systems, automations, and agent workflows for a business — identifying which manual work is worth automating, how to structure the system, which tools fit, and what could go wrong. Use this to automate part of an operation, design an agent or MCP workflow, reduce repetitive manual work, connect tools into a system, decide which automation to build first, or audit an automation that is not delivering.
 ---
 

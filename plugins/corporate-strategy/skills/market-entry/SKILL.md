@@ -1,5 +1,6 @@
 ---
 name: market-entry
+version: 1.0.1
 description: Decides whether and how to enter a new market — sizing demand from the bottom up rather than from a market report, testing whether your advantage transfers, choosing between organic entry, partnership and acquisition, sequencing the operational and regulatory work that entry actually requires, and setting the criteria that would tell you to stop. Use this to evaluate a new geography, segment or vertical, pressure-test an entry plan, or work out why a launched market never reached scale.
 ---
 
