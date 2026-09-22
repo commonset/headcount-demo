@@ -1,5 +1,6 @@
 ---
 name: experimentation
+version: 1.2.0
 description: Designs, runs, and reads A/B tests and growth experiments — hypothesis, sample size, duration, and honest interpretation. Use this to plan a test, judge whether a result is real, build an experimentation program, decide what to test next, or diagnose why tests keep producing inconclusive or non-replicating results.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: data-modeling
+version: 2.0.0
 description: Designs the warehouse and semantic layer — source-to-mart structure, dimensional modeling, grain, slowly changing dimensions, and the metric layer analytics reads through. Use this to design or restructure a warehouse, model a new source, decide on grain or table structure, build a semantic or metric layer, or diagnose why queries are slow, wrong, or impossible to write.
 ---
 

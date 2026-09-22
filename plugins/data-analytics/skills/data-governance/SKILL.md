@@ -1,5 +1,6 @@
 ---
 name: data-governance
+version: 1.0.0
 description: Establishes ownership, definitions, quality, access, and lineage for the organization's data. Use this when metrics disagree between teams, when nobody knows which dataset is authoritative, when setting up data ownership or access policy, when data quality is unreliable, or before opening a dataset to a wider audience.
 ---
 

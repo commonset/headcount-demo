@@ -1,5 +1,6 @@
 ---
 name: account-based-marketing
+version: 1.1.0
 description: Concentrates marketing and sales effort on a named set of accounts rather than on volume — qualifying whether the model fits your economics at all, building the account list and the buying group inside each, tiering effort against account value, coordinating so the account experiences one campaign rather than several, and measuring account progression instead of leads. Use this to decide whether to run an account-based program, build one, or work out why an existing one produces activity and no pipeline.
 ---
 

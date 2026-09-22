@@ -1,5 +1,6 @@
 ---
 name: data-engineering
+version: 1.0.0
 description: Builds and operates data pipelines — ingestion, transformation, orchestration, quality testing, and reliability of data delivery. Use this to design or debug a pipeline, decide batch versus streaming, add data quality checks, handle late or duplicate data, or work out why a dashboard's numbers changed without anyone changing the dashboard.
 ---
 

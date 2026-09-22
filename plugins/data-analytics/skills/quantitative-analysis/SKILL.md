@@ -1,5 +1,6 @@
 ---
 name: quantitative-analysis
+version: 1.0.0
 description: Answers a business question with data without fooling yourself — framing the question so an answer would change something, choosing the right comparison, checking the data before trusting it, recognizing the traps that produce confident wrong answers (aggregation reversals, survivorship, regression to the mean, multiple comparisons), and reporting uncertainty honestly. Use this to run an analysis, review one before acting on it, or work out why two people looking at the same data reached opposite conclusions.
 ---
 

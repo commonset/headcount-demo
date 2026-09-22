@@ -1,5 +1,6 @@
 ---
 name: app-store-optimization
+version: 1.0.0
 description: Improves visibility and conversion in the App Store and Google Play — metadata, keywords, screenshots, ratings, and the listing experience that turns an impression into an install. Use this to audit or optimize an app listing, plan a launch listing, diagnose poor install conversion, or improve store search visibility.
 ---
 

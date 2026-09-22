@@ -1,5 +1,6 @@
 ---
 name: voice-of-customer
+version: 1.1.0
 description: Builds the loop from what customers say to what gets changed — collecting feedback, distinguishing signal from noise, routing it to owners, and closing the loop back to the customer. Use this to set up a feedback program, design or interpret CSAT/NPS, decide what customer feedback deserves action, get product to act on recurring issues, or diagnose why feedback is collected but nothing changes.
 ---
 
