@@ -1,5 +1,6 @@
 ---
 name: it-asset-management
+version: 3.0.0
 description: Tracks hardware and software assets through their life — procurement, ownership, licensing, refresh, and disposal. Use this to build an asset register, prepare for a software audit, plan a refresh cycle, control license spend, or dispose of equipment safely.
 ---
 

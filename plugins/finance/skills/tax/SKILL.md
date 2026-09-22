@@ -1,5 +1,6 @@
 ---
 name: tax
+version: 1.3.2
 description: Structures the tax questions a growing business faces — corporate income, sales and use, payroll, nexus, and the obligations created by hiring or selling somewhere new. Use this to work out what a new state or country obligates you to, prepare for a tax filing or audit, understand sales tax on your product, or check what a remote hire or new market triggers.
 ---
 

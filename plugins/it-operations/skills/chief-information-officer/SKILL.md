@@ -1,5 +1,6 @@
 ---
 name: chief-information-officer
+version: 2.1.0
 description: The CIO's remit — running the technology the company works on, service quality, IT spend, and the boundary with product engineering. Use this to set IT priorities, decide what IT owns versus engineering, structure IT spend or an IT roadmap, judge whether to build, buy or outsource, or work out why IT is seen as a cost center rather than an enabler.
 ---
 
