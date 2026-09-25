@@ -1,6 +1,5 @@
 ---
 name: activation
-version: 2.1.3
 description: Gets new users from signup to first real value — signup flow, onboarding, time-to-value, and the early experience that determines whether someone becomes a user or a lapsed account. Use this to design or fix signup and onboarding, diagnose why signups do not convert to active use, reduce time-to-value, or decide what a new user must accomplish first.
 ---
 
